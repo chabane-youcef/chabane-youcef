@@ -8,7 +8,6 @@ im flutter developer with ambition to continue learning
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [youcef.chabane98@gmail.com](mailto:youcef.chabane98@gmail.com)
-* 🚀  I'm currently working on [Darrbak travel](http://darrbak.com)
 
 ### Skills
 
