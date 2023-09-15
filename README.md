@@ -1,40 +1,85 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is CHABANE Youcef El Amine
-===============================================================================================================================================
+<pre>
+Initializing Dart VM...
 
-Flutter developer
------------------
-
-im flutter developer with ambition to continue learning
-
-* 🌍  I'm based in Algeria
-* ✉️  You can contact me at [youcef.chabane98@gmail.com](mailto:youcef.chabane98@gmail.com)
-
-### Skills
-
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-</p>
+Dart VM is ready to use.
+To contact me, please send me a message to `<a href="mailto:youcef.chabane98@gmail.com">youcef.chabane98@gmail.com</a>`.
+<!-- For more details, please visit <a href="https://portfolio.dctech.dev">https://portfolio.dctech.dev</a> or <a href="https://facefolio.dctech.dev">https://facefolio.dctech.dev</a>. -->
+MacBook-Pro:~ monster555$ cat ./main.dart
+</pre>
 
 
-### Socials
+```dart
+void main() {
+  
+  final me = PersonalInfo(
+    title: 'Flutter Engineer',
+    contacInfo: ContactInfo(
+      email: Uri.parse('mailto:youcef.chabane98@gmail.com'),
+      linkedIn: Uri.https('www.linkedin.com', 'in/youcef-el-amine-chabane/'),
+      github: Uri.https('github.com', 'chabane-youcef'),
+      resume: Uri.https('drive.google.com', 'file/d/1D-dAgMG-V5Wy84lIDEu6QFyffpCRaG0V/view?usp=drive_link'),
+    ),
+    flutterInfo: FlutterInfo(
+      experienceYears: 3,
+      projectsCount: 'Many!', // And counting... :)
+      apps: <Stores>[
+        IOS(
+          hasPublishedApps: true,
+          appsCount: 4,
+        ),
+        Android(
+          hasPublishedApps: true,
+          appsCount: 8,
+        ),
+      ],
+      useBLoC: true,
+      useCleanArchitecture: true,
+      useFirebase: true,
+      doLocalization: true,
+      doResponsiveDesign: true,
+    ),
+    otherSkills: <SkillString>[
+      'UI / UX',
+      'CI / CD'
+      'MongoDB',
+      'JavaScript',
+      'NodeJS',
+      'HTML / CSS',
+      'TypeScript',
+    ],
+  )..setStatus(
+    learningCoolStuff: true,
+    openToNewProjects: true,
+  );
+}
+```
+<pre>
+MacBook-Pro:~ chabane-youcef
+</pre>
+  
+## Apps on Stores
 
-<p align="left"> <a href="https://www.github.com/chabane-youcef" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/youcef-el-amine-chabane-23878621a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://play.google.com/store/apps/details?id=weone.diimaak.app">DIIMAAK (Android)</a><br>
+<a href="https://play.google.com/store/apps/details?id=weone.emm.app" target="_blank">EMM E-SHOP (Android)</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.oomcoapp&hl=en_AU" target="_blank">Oman oil (Android)</a><br>
+<a href="https://apps.apple.com/us/app/oomco-world/id1473560939" target="_blank">Oman oil (IOS)</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.thisisyay.app" target="_blank">This is YAY (Android)</a><br>
+<a href="https://apps.apple.com/dz/app/this-is-yay/id1670842306" target="_blank">This is YAY (IOS)</a><br>
 
-### Badges
+## Some stuff I've used
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/chabane-youcef"><img src="https://github-readme-stats.vercel.app/api?username=chabane-youcef&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="chabane-youcef's GitHub stats" /></a>
-
-<a href="http://www.github.com/chabane-youcef"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chabane-youcef&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/chabane-youcef"><img src="https://activity-graph.herokuapp.com/graph?username=chabane-youcef&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
