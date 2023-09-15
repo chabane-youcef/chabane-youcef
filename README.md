@@ -4,7 +4,7 @@ Initializing Dart VM...
 Dart VM is ready to use.
 To contact me, please send me a message to `<a href="mailto:youcef.chabane98@gmail.com">youcef.chabane98@gmail.com</a>`.
 <!-- For more details, please visit <a href="https://portfolio.dctech.dev">https://portfolio.dctech.dev</a> or <a href="https://facefolio.dctech.dev">https://facefolio.dctech.dev</a>. -->
-MacBook-Pro:~ monster555$ cat ./main.dart
+MacBook-Pro:~ chabane-youcef$ cat ./main.dart
 </pre>
 
 
@@ -32,6 +32,7 @@ void main() {
           appsCount: 8,
         ),
       ],
+      useRiverPod: true,
       useBLoC: true,
       useCleanArchitecture: true,
       useFirebase: true,
