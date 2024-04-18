@@ -59,11 +59,12 @@ MacBook-Pro:~ chabane-youcef
 </pre>
   
 ## Apps on Stores
-
+<a href="https://apps.apple.com/us/app/oomco-world/id1473560939" target="_blank">Oman oil (IOS)</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.oomcoapp&hl=en_AU" target="_blank">Oman oil (Android)</a><br>
 <a href="https://play.google.com/store/apps/details?id=weone.diimaak.app">DIIMAAK (Android)</a><br>
 <a href="https://play.google.com/store/apps/details?id=weone.emm.app" target="_blank">EMM E-SHOP (Android)</a><br>
-<a href="https://play.google.com/store/apps/details?id=com.oomcoapp&hl=en_AU" target="_blank">Oman oil (Android)</a><br>
-<a href="https://apps.apple.com/us/app/oomco-world/id1473560939" target="_blank">Oman oil (IOS)</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.laquiclient.app&hl=en&gl=US" target="_blank">LAQUI CLIENT (Android)</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.laquidriver.app&hl=en&gl=US" target="_blank">LAQUI DRIVER (Android)</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.thisisyay.app" target="_blank">This is YAY (Android)</a><br>
 <a href="https://apps.apple.com/dz/app/this-is-yay/id1670842306" target="_blank">This is YAY (IOS)</a><br>
 
